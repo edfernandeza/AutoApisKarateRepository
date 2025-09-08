@@ -1,0 +1,8 @@
+{
+  "walletProviderId": "<wallet>",
+  "issuerCardRefId": "<issuer>",
+  "walletUserInformation": {
+    "walletUserId": "<one>"
+  },
+  "deviceInformation": {}
+}

@@ -1,0 +1,5 @@
+{
+  "walletProviderId": "<wallet>",
+  "issuerCardRefId": "<issuer>",
+  "otpValue": "<value>"
+}

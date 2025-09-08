@@ -1,0 +1,12 @@
+{
+  "cipheredCardInfo": "<cipher>",
+  "walletProviderId": "<wallet>",
+  "tokenRequestor":{
+    "id": "<id>",
+    "originalTokenRequestorId": "<originalToken>",
+    "walletId":"<walletId>",
+    "merchantId":"<merchan>",
+    "name":"<name>"
+  },
+  "captureMethod":"<manual>"
+}
