@@ -1,7 +1,0 @@
-{
-  "issuerCardRefId": "<issue>",
-  "virtualCardId": "<prime>",
-  "walletProviderId": "<Pay>",
-  "isPrimary": "<V>",
-  "action": "<Suspend>"
-}
