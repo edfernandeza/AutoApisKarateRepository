@@ -10,10 +10,6 @@ function() {
     config.baseUrl = 'https://bfa-pe-tkz-prod-01-priv.fif.tech';
   }
 
-  // Lee los paths desde un archivo properties
-  config.paths = karate.read('classpath:/Config/paths.properties');
-  var utils = karate.read('classpath:/Utils/utils.js');
-
 
   return config;
 }

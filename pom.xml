@@ -35,26 +35,14 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>com.intuit.karate</groupId>
-            <artifactId>karate-core</artifactId>
-            <version>1.4.0</version> <!-- Cambia la versión según la más reciente -->
-            <scope>test</scope>
-        </dependency>
 
         <dependency>
             <groupId>com.intuit.karate</groupId>
             <artifactId>karate-junit5</artifactId>
-            <version>1.4.0</version>
-            <scope>test</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>gherkin</artifactId>
-            <version>26.0.0</version> <!-- O la versión más reciente -->
+            <version>1.4.1</version>
             <scope>test</scope>
         </dependency>
 
     </dependencies>
+
 </project>
