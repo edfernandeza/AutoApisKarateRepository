@@ -11,3 +11,5 @@ Feature: Autorizacion de Endpoints de Seguros
     And method POST
     Then status 200
     And match response == tokenSchema
+    * console.log("HOLA SSSSS:" + response.access_token)
+    * def accessToken = response.access_token
